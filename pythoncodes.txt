@@ -1,0 +1,4 @@
+print('hello world')
+print("Addition is :",(200+800))
+print("comparision result:",(100<800))
+print(3.14*2*2)
